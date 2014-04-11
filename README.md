@@ -33,4 +33,4 @@ PM演習のためのファイル置き場
 
 ###方針2
 
-グループの代表者のみがhttps://github.com/taroyabuki/pmpractice をforkし、そうしてできたhttps://github.com/代表者のアカウント/pmpractice を全員で共有する。そのためには、 https://github.com/代表者のアカウント/pmpractice/settings/collaboration で、グループのメンバを協力者として登録すればよい。これにより、メンバが代表者のリポジトリを更新できるようになる。（参考：[GitHub初心者はForkしない方のPull Requestから入門しよう]http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/）
+グループの代表者のみがhttps://github.com/taroyabuki/pmpractice をforkし、そうしてできたhttps://github.com/代表者のアカウント/pmpractice を全員で共有する。そのためには、 https://github.com/代表者のアカウント/pmpractice/settings/collaboration で、グループのメンバを協力者として登録すればよい。これにより、メンバが代表者のリポジトリを更新できるようになる。（参考：[GitHub初心者はForkしない方のPull Requestから入門しよう](http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/)）
